@@ -9,7 +9,7 @@ This repository contains a Power BI dashboard focusing on court appearances in B
 - **Pie Chart**: Pie chart visualization showcases different court classes such as adult, youth, family, tickets, etc., providing insights into the distribution of court cases.
 - **Comparison Chart**: A chart displaying court appearances categorized by civil or criminal court over fiscal years, enabling users to observe trends and shifts in case types.
 
-
+![Court Appearance Dashboard](https://github.com/anuvsharma/court_appearance_dashboard/blob/main/Court_Appearance_Dashboard.png)
 
 ## Data Source
 
